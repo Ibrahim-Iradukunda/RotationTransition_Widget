@@ -56,14 +56,9 @@ The rotation animation runs continuously to visually indicate that a process is 
 3. `cd RotationTransition_Widget`
 4. Install dependencies and run the app.
 
-````bash
-flutter pub get
-flutter run
-
-```
-
+`flutter pub get`
+`flutter run`
 
 ## Screenshot
 
-![alt text](image-1.png)
-````
+![Demo Screenshot](lib/assets/Screenshot%202026-02-18%20132132.png)
